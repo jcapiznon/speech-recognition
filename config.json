@@ -1,0 +1,14 @@
+{
+  "clientId": {
+    "label": "Client Id",
+    "type": "String",
+    "required": true,
+    "help": "Client Id, can be anything"
+  },
+  "clientSecret": {
+    "label": "Client Secret",
+    "type": "Password",
+    "required": true,
+    "help": "Microsoft Speech API subscription key"
+  }
+}
